@@ -1,0 +1,25 @@
+{
+  "fullName": "الاسم الكامل",
+  "email": "name@example.com",
+  "phone": "+966500000000",
+  "title": "مطوّر واجهات",
+  "summary": "ملخص مهني من سطرين.",
+  "skills": ["JavaScript", "React", "CSS"],
+  "experience": [
+    {
+      "company": "شركة مثال",
+      "role": "مطوّر واجهات",
+      "period": "2022 - 2024",
+      "bullets": ["أنجزت مهمة محددة بنتيجة محددة."]
+    }
+  ],
+  "education": ["بكالوريوس علوم الحاسب - جامعة مثال"],
+  "languages": ["العربية", "الإنجليزية"],
+  "targets": {
+    "titles": ["Frontend Developer"],
+    "cities": ["الرياض"],
+    "minSalary": 0,
+    "remoteOk": true
+  },
+  "minMatch": 70
+}
